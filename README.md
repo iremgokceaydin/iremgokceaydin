@@ -1,16 +1,17 @@
 ## Hi there 👋
+Thanks for visiting my GitHub profile!
 
-<!--
-**iremgokceaydin/iremgokceaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+- 🎯 Focused on creating interactive and meaningful experiences
+- 🔭 Currently working on prototyping my ideas
+- 🔍 Trying to catch up with AI updates 🚀
+- 📫 How to reach me: iremgokceaydin.com
 
-Here are some ideas to get you started:
+## Most Recent Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project |  |
+|---------|-----------------|
+| **[Explain that like I am](https://github.com/iremgokceaydin/explain-like-I-am/blob/main/README.md)** | <img src="https://github.com/user-attachments/assets/cfd05a6d-a7dd-4f16-ae7b-475b5d5cb565" height="200" alt="Explain that like I am"> |
+| **[Bio generator](https://github.com/iremgokceaydin/bio-generator/blob/main/README.md)** | <img src="https://github.com/user-attachments/assets/11e40ee9-972a-4c68-9d1a-a19fbf720537" height="200" alt="Bio generator"> |
+| **[tSNE with DCGAN](https://github.com/iremgokceaydin/tsne-with-dcgan/blob/master/Readme.md)** | <img src="https://raw.githubusercontent.com/iremgokceaydin/tsne-with-dcgan/master/docs/bulk.gif" height="200" alt="tSNE with DCGAN"> |
+| **[tSNE for art](https://github.com/iremgokceaydin/tsne-for-art/blob/master/Readme.md)** | <img src="https://raw.githubusercontent.com/iremgokceaydin/tsne-for-art/master/images/4.gif" height="200" alt="tSNE for art"> |
