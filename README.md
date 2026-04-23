@@ -1,5 +1,5 @@
 ## Hi there 👋
-Thanks for visiting my GitHub profile!
+Thanks for visiting!
 
 ## 🌱 About Me
 - 🎯 Focused on creating interactive and meaningful experiences
